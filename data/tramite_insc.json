@@ -1,0 +1,17 @@
+[
+  {
+    "nroTramite": 302,
+    "ci": "8765432",
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "carrera": "Informática",
+    "ru": "1734921",
+    "materias": ["INF-131", "INF-143"],
+    "justificacion": "Estuve hospitalizado por dengue durante la semana de inscripciones regulares.",
+    "comprobante_medico": "CERT-MED-4321",
+    "decision_director": "Pendiente",
+    "observaciones_director": "",
+    "registro_kardex_confirmado": false,
+    "estado": "Pendiente"
+  }
+]

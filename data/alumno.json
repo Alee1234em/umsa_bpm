@@ -1,0 +1,18 @@
+[
+  {
+    "ci": "8765432",
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "ru": "1734921",
+    "carrera": "Informática",
+    "promedio": 78.5
+  },
+  {
+    "ci": "1234567",
+    "nombre": "Moises",
+    "apellido": "Mamani",
+    "ru": "1654321",
+    "carrera": "Informática",
+    "promedio": 88.0
+  }
+]

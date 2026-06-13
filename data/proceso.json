@@ -1,0 +1,65 @@
+[
+  {
+    "codFlujo": "CERT",
+    "codProceso": "P1",
+    "codProcesoSiguiente": "P2",
+    "tipo": "I",
+    "codRol": "E",
+    "pantalla": "cert_solicitud.inc.php",
+    "nombreProceso": "Solicitud de Certificado"
+  },
+  {
+    "codFlujo": "CERT",
+    "codProceso": "P2",
+    "codProcesoSiguiente": "P3",
+    "tipo": "P",
+    "codRol": "K",
+    "pantalla": "cert_validacion.inc.php",
+    "nombreProceso": "Validación de Pago y Firma"
+  },
+  {
+    "codFlujo": "CERT",
+    "codProceso": "P3",
+    "codProcesoSiguiente": "",
+    "tipo": "C",
+    "codRol": "E",
+    "pantalla": "cert_descarga.inc.php",
+    "nombreProceso": "Descarga de Certificado"
+  },
+  {
+    "codFlujo": "INSC",
+    "codProceso": "P1",
+    "codProcesoSiguiente": "P2",
+    "tipo": "I",
+    "codRol": "E",
+    "pantalla": "insc_solicitud.inc.php",
+    "nombreProceso": "Solicitud de Inscripción"
+  },
+  {
+    "codFlujo": "INSC",
+    "codProceso": "P2",
+    "codProcesoSiguiente": "P3",
+    "tipo": "P",
+    "codRol": "D",
+    "pantalla": "insc_evaluacion.inc.php",
+    "nombreProceso": "Evaluación del Director"
+  },
+  {
+    "codFlujo": "INSC",
+    "codProceso": "P3",
+    "codProcesoSiguiente": "P4",
+    "tipo": "P",
+    "codRol": "K",
+    "pantalla": "insc_registro.inc.php",
+    "nombreProceso": "Registro en Kardex"
+  },
+  {
+    "codFlujo": "INSC",
+    "codProceso": "P4",
+    "codProcesoSiguiente": "",
+    "tipo": "C",
+    "codRol": "E",
+    "pantalla": "insc_resultado.inc.php",
+    "nombreProceso": "Notificación Final"
+  }
+]

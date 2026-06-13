@@ -1,0 +1,98 @@
+[
+    {
+        "nroTramite": 300,
+        "codFlujo": "CERT",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 301,
+        "codFlujo": "CERT",
+        "codProceso": "P2",
+        "codUsuario": "Maria",
+        "fechaini": "2026-06-11",
+        "fechafin": "2026-06-12"
+    },
+    {
+        "nroTramite": 302,
+        "codFlujo": "INSC",
+        "codProceso": "P2",
+        "codUsuario": "Hugo",
+        "fechaini": "2026-06-10",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 303,
+        "codFlujo": "INSC",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 304,
+        "codFlujo": "CERT",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 305,
+        "codFlujo": "CERT",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 306,
+        "codFlujo": "INSC",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": null
+    },
+    {
+        "nroTramite": 307,
+        "codFlujo": "CERT",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": "2026-06-12"
+    },
+    {
+        "nroTramite": 307,
+        "codFlujo": "CERT",
+        "codProceso": "P2",
+        "codUsuario": "Maria",
+        "fechaini": "2026-06-12",
+        "fechafin": "2026-06-12"
+    },
+    {
+        "nroTramite": 307,
+        "codFlujo": "CERT",
+        "codProceso": "P3",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": "2026-06-12"
+    },
+    {
+        "nroTramite": 301,
+        "codFlujo": "CERT",
+        "codProceso": "P3",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-12",
+        "fechafin": "2026-06-12"
+    },
+    {
+        "nroTramite": 308,
+        "codFlujo": "INSC",
+        "codProceso": "P1",
+        "codUsuario": "Juan",
+        "fechaini": "2026-06-13",
+        "fechafin": null
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "nroTramite": 301,
+        "ci": "8765432",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "carrera": "Informática",
+        "gestion": "2026",
+        "tipo_certificado": "Certificado de Calificaciones",
+        "comprobante_pago": "COMP-9831A",
+        "fecha_pago": "2026-06-11",
+        "estado_pago": "Aprobado",
+        "firmado": true,
+        "observaciones": "",
+        "estado": "Aprobada"
+    },
+    {
+        "nroTramite": 307,
+        "ci": "8765432",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "carrera": "Informática",
+        "gestion": "2026",
+        "tipo_certificado": "Certificado de Egreso",
+        "comprobante_pago": "123",
+        "fecha_pago": "2026-06-12",
+        "estado_pago": "Aprobado",
+        "firmado": true,
+        "observaciones": "Aprobado",
+        "estado": "Aprobada"
+    }
+]
